@@ -84,7 +84,7 @@ Link: https://easyeda.com/sentsor-project/sentsor-core-esp32-dev
 
 ## Gallery
 _Render View:_  
-<img src="https://github.com/adamalfath/sentsor-esp32dev/blob/main/media/esp32dev-render0.png" width="400"> <img src="https://github.com/adamalfath/sentsor-core-esp32dev/blob/main/media/esp32dev-render1.png" width="400">  
+<img src="https://github.com/adamalfath/sentsor-core-esp32dev/blob/main/media/esp32dev-render0.png" width="400"> <img src="https://github.com/adamalfath/sentsor-core-esp32dev/blob/main/media/esp32dev-render1.png" width="400">  
 <img src="https://github.com/adamalfath/sentsor-core-esp32dev/blob/main/media/esp32dev-render2.png" width="400"> <img src="https://github.com/adamalfath/sentsor-core-esp32dev/blob/main/media/esp32dev-render3.png" width="400">
 
 ## Support Open Source Hardware & SENTSOR!
